@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Exotra!  
+# 👋 Hi, I'm Seth!  
 🔹 Cybersecurity Enthusiast | Network Security Learner | Cloud Security Learner  
 🔹 Studying for Security+, Netwrok+, AWS Security, and CCSK  
 🔹 Passionate about penetration testing, network security, cloud security, and automation  
