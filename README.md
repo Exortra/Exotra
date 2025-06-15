@@ -1,12 +1,47 @@
-# 👋 Hi, I'm Seth!  
-🔹 Cybersecurity Enthusiast | Network Security Learner | Cloud Security Learner  
-🔹 Studying for Security+, Network+, AWS Security, and CCSK  
-🔹 Passionate about penetration testing, network security, cloud security, and automation  
+# 👋 Hey there, I'm Seth Roberts!
 
-## 🚀 My Projects  
-- 🛡️ [AWS IAM Misconfigurations Lab](https://github.com/Exotra/aws-iam-lab)  
-- 🔍 [Cloud Security Scanner](https://github.com/Exotra/cloud-scanner) 
-- 🌐 [Network Security Tools & Scripts](https://github.com/Exotra/network-security-tools)
-- 🏆 [CTF Writeups](https://github.com/Exotra/ctf-writeups)  
+🎓 **Cybersecurity Bootcamp Graduate** | 🛡️ Blue Team Enthusiast | ☁️ Future Cloud Security Professional
 
-📫 **Find me on** www.linkedin.com/in/seth-roberts-1ab7a926b
+Welcome to my GitHub! I'm a recent graduate of the Ohio State Cybersecurity Bootcamp, where I built a strong foundation in cybersecurity principles, network defense, cloud security, and risk management. I'm passionate about blue team roles and working toward a high-impact career in cloud security and threat defense.
+
+---
+
+## 🧠 What I’ve Learned
+Throughout the bootcamp, I gained hands-on experience in:
+
+- Network Security Fundamentals & Protocol Analysis (Wireshark, Nmap, TCP/IP)
+- Security Operations (SIEM, SOC workflows, incident response)
+- System Hardening (Windows/Linux security practices)
+- Vulnerability Management (Nessus, OpenVAS)
+- Governance, Risk & Compliance (GRC frameworks like NIST, ISO)
+- Identity & Access Management (IAM in Azure & AWS)
+- Cloud Security Basics (Azure AD, Conditional Access, MFA, Logging)
+- Python for Security Automation
+- Threat Modeling, Mitre ATT&CK, and Risk Assessment
+
+---
+
+## 🛠️ Projects
+
+Here are a few key projects I've completed during the bootcamp:
+
+| Project | Description | Link |
+|--------|-------------|------|
+| **Network Packet Analysis** | Captured and analyzed live packet data using Wireshark to identify malicious behavior. | 🔗 *Coming soon* |
+| **Vulnerability Assessment Lab** | Performed vulnerability scans with OpenVAS/Nessus and reported on system weaknesses. | 🔗 *Coming soon* |
+| **Azure IAM Policy Demo** | Implemented RBAC and conditional access policies in Azure AD to demonstrate secure cloud access. | 🔗 *Coming soon* |
+| **SIEM Investigation Simulation** | Simulated SOC analyst workflows using Splunk or ELK to investigate suspicious events. | 🔗 *Coming soon* |
+
+---
+
+## 🌐 Let’s Connect
+- 📧 Email: seth.m.t.roberts@gmail.com
+
+---
+
+## 📈 Currently Learning
+- AWS Cloud Security & IAM
+- Python for Security Engineering
+- Preparing for CompTIA Security+ and SC-900
+
+---
